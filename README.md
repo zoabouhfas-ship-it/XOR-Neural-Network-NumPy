@@ -11,3 +11,5 @@ Ce projet est un TP pratique visant à implémenter et visualiser les fonctions 
 - NumPy
 - Matplotlib
 - Scipy
+## Auteur
+-Abouhafs Zouhir 
